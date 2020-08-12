@@ -1,4 +1,4 @@
-# UnityGame1
+# Animal Game
 The game is designed to implement all the movements and with an additional feature for the player to rotate using A, S, W, D keys. The health bar is done using the 3D cylinder added to each animal. 
 Find the game demo here 
 
